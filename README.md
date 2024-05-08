@@ -10,4 +10,5 @@ In this project I have Analyzed Instagram Users and found insights for Business 
 - The partner brands can create posts related to these 5 hashtags to reach most people.
 - Most users are registering on Thursdays and Sundays so that would be good time to do an ad campaign.
 - There are 13 bots among 100 users which shows that most of the users are real humans and not bots. So, Investors can invest in the app.
-> [!NOTE] To get a detailed idea of this project see the "Instagram User Analytics Report" pdf file.
+> [!NOTE]
+> To get a detailed idea of this project see the "Instagram User Analytics Report" pdf file.
